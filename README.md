@@ -1,6 +1,6 @@
 # Curso de Python 3 - Mundo 01
 
-Neste repositório, estão os arquivos de tudo que estudei, durante o Mundo 01 do Curso de Python 3, do Curso em Vídeo.
+Neste repositório, estão os arquivos de tudo o que estudei, durante o Mundo 01 do Curso de Python 3, do Curso em Vídeo.
 
 A pasta "Mundo01" contém:
 
