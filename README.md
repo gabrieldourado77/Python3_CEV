@@ -8,4 +8,5 @@ A pasta "Mundo01" contém:
 - A pasta "Enunciados_Exercicios_Mundo01", com os enunciados de todos os exercícios.
 - A pasta "Recomeco", onde está um arquivo, com alguns comandos que pratiquei, quando retornei ao curso.
 
+
 - Aviso - Em breve, enviarei os arquivos do Mundo 02.
